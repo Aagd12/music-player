@@ -161,6 +161,10 @@ body {
     margin-top: 77px;
 }
 
+.progress_bar:hover {
+    cursor: pointer;
+}
+
 .progress_current_time {
     position: absolute;
     top: 0px;
